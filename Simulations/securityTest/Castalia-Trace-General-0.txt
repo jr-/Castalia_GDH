@@ -1,0 +1,56 @@
+
+0                 SN.node[0].Communication.Routing         TSTP::startup()
+0                 SN.node[0].Communication.Routing         I am a sink
+0                 SN.node[0].Communication.Routing         Received [TSTP pointer setup] from MAC layer. src = 0
+0                 SN.node[0].Communication.Routing         _here = (0,0,0)
+0                 SN.node[0].Communication.Routing         TSTP = (TSTP)Routing, NIC = 29237968
+0.001             SN.node[1].Communication.Routing         TSTP::startup()
+0.001             SN.node[1].Communication.Routing         I am a sensor
+0.001             SN.node[2].Communication.Routing         TSTP::startup()
+0.001             SN.node[2].Communication.Routing         I am a sensor
+0.001             SN.node[3].Communication.Routing         TSTP::startup()
+0.001             SN.node[3].Communication.Routing         I am a sensor
+0.001             SN.node[1].Communication.Routing         Received [TSTP pointer setup] from MAC layer. src = 0
+0.001             SN.node[1].Communication.Routing         _here = (100,0,0)
+0.001             SN.node[1].Communication.Routing         TSTP = (TSTP)Routing, NIC = 29284672
+0.001             SN.node[2].Communication.Routing         Received [TSTP pointer setup] from MAC layer. src = 0
+0.001             SN.node[2].Communication.Routing         _here = (0,100,0)
+0.001             SN.node[2].Communication.Routing         TSTP = (TSTP)Routing, NIC = 29305232
+0.001             SN.node[3].Communication.Routing         Received [TSTP pointer setup] from MAC layer. src = 0
+0.001             SN.node[3].Communication.Routing         _here = (100,100,0)
+0.001             SN.node[3].Communication.Routing         TSTP = (TSTP)Routing, NIC = 29325952
+60.0008446665     SN.node[0].Communication.Routing         TSTP::~TSTP()
+60.0008446665     SN.node[0].Communication.Routing         TSTP::~Security()
+
+60.0008446665     SN.node[0].Communication.Routing         TSTP::~Router()
+
+60.0008446665     SN.node[0].Communication.Routing         TSTP::~Locator()
+
+60.0008446665     SN.node[0].Communication.Routing         TSTP::~Timekeeper()
+
+60.0008446665     SN.node[1].Communication.Routing         TSTP::~TSTP()
+60.0008446665     SN.node[1].Communication.Routing         TSTP::~Security()
+
+60.0008446665     SN.node[1].Communication.Routing         TSTP::~Router()
+
+60.0008446665     SN.node[1].Communication.Routing         TSTP::~Locator()
+
+60.0008446665     SN.node[1].Communication.Routing         TSTP::~Timekeeper()
+
+60.0008446665     SN.node[2].Communication.Routing         TSTP::~TSTP()
+60.0008446665     SN.node[2].Communication.Routing         TSTP::~Security()
+
+60.0008446665     SN.node[2].Communication.Routing         TSTP::~Router()
+
+60.0008446665     SN.node[2].Communication.Routing         TSTP::~Locator()
+
+60.0008446665     SN.node[2].Communication.Routing         TSTP::~Timekeeper()
+
+60.0008446665     SN.node[3].Communication.Routing         TSTP::~TSTP()
+60.0008446665     SN.node[3].Communication.Routing         TSTP::~Security()
+
+60.0008446665     SN.node[3].Communication.Routing         TSTP::~Router()
+
+60.0008446665     SN.node[3].Communication.Routing         TSTP::~Locator()
+
+60.0008446665     SN.node[3].Communication.Routing         TSTP::~Timekeeper()
